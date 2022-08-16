@@ -1,4 +1,4 @@
-<h1>Hi guys, my name is Lucas! 👋🇧🇷</h1> 
+<h1>Hi guys, my name is Lucas! 👋</h1> 
 <p>I value good interpersonal relationships, and the opportunity for constant professional and personal improvement.
 
 My journey started a few years ago. Since I was young, I've always been involved in the technology business, because of my family and friends, which, consequently, made me create a lot of curiosity in this Tech world 👨‍💻.
