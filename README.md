@@ -1,4 +1,9 @@
-<h1>Olá pessoal, me chamo Lucas!</h1> 
+<h1>Hi guys, my name is Lucas!</h1> 
+<p>I value good interpersonal relationships, and the opportunity for constant professional and personal improvement.
+
+My journey started a few years ago. Since I was young, I've always been involved in the technology business, because of my family and friends, which, consequently, made me create a lot of curiosity in this Tech world.
+
+Continuing, I started my degree in Computer Science at the University of Fortaleza (UNIFOR) - 2022/2026 following purposes and objectives. they are, to explore this world where I was curious, to live professional experiences and, finally, to add value to the people who walk this long path in my professional career with me.</p>
 <div align="center">
   <a href="https://github.com/lucascafeee">
   <img width="48%"   src="https://github-readme-stats.vercel.app/api?username=lucascafeee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
