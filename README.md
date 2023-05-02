@@ -1,5 +1,6 @@
-<h1>Hi guys, my name is Lucas! 👋</h1> 
-<p>Hello, my name is Lucas and I am a technology professional, with a focus on software development and engineering.
+# Hi guys, my name is Lucas! 👋
+
+Hello, my name is Lucas and I am a technology professional, with a focus on software development and engineering.
 
 My journey in this field began several years ago, due to my natural curiosity for the world of technology, which was further stimulated by my family and friends. Consequently, I decided to pursue a degree in Computer Science at the University of Fortaleza (UNIFOR) from 2022 to 2026, with the aim of fulfilling my purposes and objectives. This includes exploring the constantly evolving world of technology, gaining professional experience, and adding value to the lives of those who accompany me on this long path.
 
@@ -9,13 +10,13 @@ As for my technical skills, I possess broad knowledge of various technologies/me
 
 In summary, my technical skills include:
 
-Proficiency in HTML, CSS, and JavaScript
-Experience with ReactJS, NodeJS, Typescript, and VueJS
-Expertise in C# with .NET
-Proficiency in Golang
-Knowledge of SQL, MySQL, and PostgreSQL databases
-Expertise in using Git, Github, and Gitflow.
-</p>
+- Proficiency in HTML, CSS, and JavaScript
+- Experience with ReactJS, NodeJS, Typescript, and VueJS
+- Expertise in C# with .NET
+- Proficiency in Golang
+- Knowledge of SQL, MySQL, and PostgreSQL databases
+- Expertise in using Git, Github, and Gitflow.
+
 
 ##
 
