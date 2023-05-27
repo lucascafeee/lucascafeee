@@ -6,7 +6,10 @@ Hello, my name is Lucas and I am a technology professional, with a focus on soft
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascafe/) 
+<a href="https://www.linkedin.com/in/lucascafe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 
 # 💻 Tech Stack:
   
