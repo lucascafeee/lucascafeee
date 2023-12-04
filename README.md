@@ -1,6 +1,17 @@
 # Sobre Mim:
-<h2>Olá pessoal, meu nome é Lucas! 👋</h2>
-Olá, meu nome é Lucas e sou um profissional da tecnologia, com foco em desenvolvimento e engenharia de software.<br><br>Minha jornada neste campo começou há vários anos, devido à minha curiosidade natural pelo mundo da tecnologia, que foi ainda mais estimulada por minha família e amigos. Consequentemente, decidi cursar Ciência da Computação na Universidade de Fortaleza (UNIFOR) de 2022 a 2026, com o objetivo de cumprir meus propósitos e objetivos. Isso inclui explorar o mundo da tecnologia em constante evolução, ganhar experiência profissional e agregar valor à vida daqueles que me acompanham neste longo caminho.<br><br>Em minha vida profissional e pessoal, valorizo muito boas relações interpessoais e a oportunidade de crescimento e aprimoramento contínuo. Além disso, estou profundamente comprometido com o aprendizado constante, independentemente do assunto.<br><br>Quanto às minhas habilidades técnicas, possuo um amplo conhecimento de várias tecnologias/metodologias e estou totalmente comprometido em aprender novas conforme necessário. 🚀<br><br>Em resumo, minhas habilidades técnicas incluem:<br><br>- Proficiência em HTML, CSS e JavaScript<br>- Experiência com Ruby, Golang, Flutter, VueJS, PostgreSQL e MongoDB.<br>- Conhecimento de NodeJS, ReactJS, Java e C# .NET<br>- Conhecimento dos bancos de dados mongoDB, SQL, MySQL e PostgreSQL<br>- Expertise no uso de Git, Github e Gitflow.<br>
+Olá, sou Lucas, um entusiasta e profissional dedicado ao campo da Tecnologia da Informação, com especialização em Desenvolvimento e Engenharia de Software.
+
+Minha paixão pela tecnologia foi despertada há anos, impulsionada pela curiosidade inata e pelo incentivo de minha família e amigos. Essa paixão me levou a ingressar no curso de Ciência da Computação na prestigiosa Universidade de Fortaleza (UNIFOR), com previsão de conclusão em 2026. Meu objetivo acadêmico e profissional é não apenas absorver o vasto conhecimento da área, mas também aplicá-lo de maneira prática e inovadora para beneficiar a comunidade que me cerca.
+
+No âmbito profissional e pessoal, valorizo profundamente a construção de relacionamentos interpessoais sólidos e a busca constante por crescimento e aperfeiçoamento. Mantenho um compromisso inabalável com o aprendizado contínuo, uma característica que considero essencial em um campo tão dinâmico como o da tecnologia.
+
+Quanto às competências técnicas, minha experiência abrange uma gama diversificada de tecnologias e metodologias. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento técnico. Algumas das minhas habilidades chave incluem:
+
+- Proficiência em HTML, CSS e JavaScript.
+- Experiência prática com Golang, TypeScript, Ruby e VueJS.
+- Conhecimento em NodeJS, ReactJS, Java e C# .NET.
+- Habilidade em gerenciar bancos de dados como MongoDB, SQL, MySQL e PostgreSQL.
+- Experiência comprovada no uso de ferramentas de versionamento como Git, Github e Gitflow.
 
 <div align="center">
 
