@@ -32,8 +32,6 @@ Valorizo a construção de relacionamentos interpessoais sólidos e a busca cons
   - ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
   - ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
   - ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat)
-  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-  - ![C# .NET](https://img.shields.io/badge/-C%23%20.NET-512BD4?logo=.net&logoColor=white&style=flat)
 
 ### Bancos de Dados
 - **Sistemas de Gerenciamento:**
