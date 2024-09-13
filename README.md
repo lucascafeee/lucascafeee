@@ -1,4 +1,4 @@
-# 👋 Olá, sou Lucas
+# 👋 Olá, me chamo Lucas
 
 Sou um desenvolvedor de software apaixonado e dedicado com especialização em Desenvolvimento e Engenharia de Software.
 
