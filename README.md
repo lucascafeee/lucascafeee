@@ -1,15 +1,71 @@
-# 👋 Olá, me chamo Lucas
+# 👋 Hey, I'm Lucas
 
-![Developer GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+A passionate **Software Developer** with a strong background in scalable architectures, clean code, and modern technologies. I build robust, maintainable, and user-centric applications.
 
-## 🌟 Sobre Mim
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascafeee&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascafeee&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
-Sou um desenvolvedor de software apaixonado e dedicado com especialização em Desenvolvimento e Engenharia de Software.
-
-Valorizo a construção de relacionamentos interpessoais sólidos e a busca constante por crescimento e aperfeiçoamento. Comprometido com o aprendizado contínuo, considero essa característica essencial em um campo tão dinâmico como o da tecnologia.
-
-Sou reconhecido pela capacidade de trabalho em equipe, comunicação eficaz e adaptabilidade a novos desafios. Adoto uma abordagem proativa para resolver problemas, mantendo sempre uma mentalidade focada em resultados.
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJvb2VybGxsb3lmMWt1YzNmaTZsbXZlYmIxZmw5cWx0YnA4bWIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaTGLZxZuUJ9zhaM4g/giphy.gif" width="500" alt="Developer GIF" />
+</div>
 
 ---
 
-Acompanhe meu progresso e projetos aqui no GitHub! 🚀
+## 🌟 About Me
+
+I’m a **Software Engineer** with over **3 years of experience**, focused on delivering scalable, secure, and high-performance solutions using modern tools and methodologies.
+
+I'm also an **AI student** and a huge **Artificial Intelligence enthusiast**, always exploring the latest in LLMs, automation, and smart systems.
+
+When I’m not coding, you’ll probably find me playing some games 🎮 or enjoying sports 🏀⚽ — tech and adrenaline are both part of my DNA.
+
+### 🧠 Main Expertise
+
+#### ⚛️ Front-End
+- React.js, Next.js, Vue.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
+- Mobile Development with React Native and Flutter (Dart)
+
+#### 🚀 Back-End
+- Node.js, NestJS, Golang, Ruby on Rails, Laravel (PHP)
+- RESTful and GraphQL APIs, OAuth2, Webhooks, API Gateways
+
+#### 🗄️ Databases
+- PostgreSQL, MySQL, MongoDB, DynamoDB
+- ORMs: Sequelize, Prisma
+
+#### 🔧 DevOps & Deployment
+- CI/CD (GitHub Actions, GitLab CI)
+- AWS (EC2, S3, Lambda, RDS, Cognito, API Gateway)
+- Mobile deployment with Expo and Firebase
+
+#### 🛠️ Other Tools
+- Git, GitFlow, Scrum, Kanban
+- Bitrix24, ClickUp, Trello
+- UX/UI Design focused on usability and responsive design
+- Integrations with OpenAI and GeminiAI
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left" style="gap: 20px;">
+  <a href="https://www.linkedin.com/in/lucascafe" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/376491265765670912" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/lucascafee/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lucascafeee/count.svg" alt="Profile Views Counter" />
+</div>
