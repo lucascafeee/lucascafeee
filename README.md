@@ -2,11 +2,6 @@
 
 A passionate **Software Developer** with a strong background in scalable architectures, clean code, and modern technologies. I build robust, maintainable, and user-centric applications.
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucascafeee&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascafeee&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
 <div align="center" style="margin-top: 20px;">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJvb2VybGxsb3lmMWt1YzNmaTZsbXZlYmIxZmw5cWx0YnA4bWIzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaTGLZxZuUJ9zhaM4g/giphy.gif" width="500" alt="Developer GIF" />
 </div>
@@ -45,9 +40,3 @@ When I’m not coding, you’ll probably find me playing some games 🎮 or enjo
 - Bitrix24, ClickUp, Trello
 - UX/UI Design focused on usability and responsive design
 - Integrations with OpenAI and GeminiAI
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucascafeee/count.svg" alt="Profile Views Counter" />
-</div>
